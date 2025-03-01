@@ -2,7 +2,7 @@
 title: 'From Shallow to Deep: The Evolution of Machine Learning and Mechanistic Model Integration in Cancer Research'
 collection: publications
 category: manuscripts
-permalink: /publication/2025-02-07-ml-mechanistic-models-cancer
+permalink: /publication/2025-02-07-shallow-deep
 excerpt: 'This paper explores the integration of machine learning and mechanistic models in cancer research, tracing their evolution from shallow to deep approaches.'
 date: 2025-02-07
 venue: 'Current Opinion in Systems Biology'
