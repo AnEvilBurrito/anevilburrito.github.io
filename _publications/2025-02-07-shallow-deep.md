@@ -1,5 +1,5 @@
 ---
-title: 'From Shallow to Deep: The Evolution of Machine Learning and Mechanistic Model Integration in Cancer Research'
+title: "From Shallow to Deep: The Evolution of Machine Learning and Mechanistic Model Integration in Cancer Research"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-02-07-shallow-deep
