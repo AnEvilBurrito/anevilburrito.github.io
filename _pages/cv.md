@@ -56,6 +56,8 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Service and leadership
+Service, Awards and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Monash Graduate Excellence Scholarship, 2022
+* Biomed Mentorship Program, 2019 
+* Public Health Student Excellence Award, 2018 
