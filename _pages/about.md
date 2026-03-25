@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I have a passion in data and its application to challenging problems. Through the increasing digitalisation of our world, I believe that understanding and harnassing the power of data is key to solving key problems and drive innovations. Coming from a background of both Biomedical and Computational Sciences, I am highly interested in the application of data science in the field of health and medicine.
+I am a Computational Scientist specializing in the intersection of mechanistic modeling and machine learning. My research focuses on developing predictive frameworks for cancer drug response.
 
-Currently, I am a Ph.D. student in the Department of Biochemistry and Molecular Biology at the Biomedicine Discovery Institute, Monash University. My research focuses on the integration of mechanistic models and machine learning to predict drug response in cancer. 
+I am passionate about bridging the gap between biological complexity and data-driven insights. I enjoy the technical challenge of building reliable data pipelines and the analytical work of making sense of noisy biological data. Currently, I am seeking opportunities in Machine Learning Engineering, Data Science, and Postdoctoral research.
+
+

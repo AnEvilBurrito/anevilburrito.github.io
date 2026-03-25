@@ -10,3 +10,6 @@ group :jekyll_plugins do
 end
 
 gem 'github-pages'
+# enable below for testing github-pages locally
+# gem 'tzinfo', '~> 2.0'
+# gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
