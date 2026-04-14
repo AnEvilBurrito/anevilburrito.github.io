@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Synthetic"
+excerpt: "Synthetic (aka ModelBuilder) is a virtual cell generation library for generating biological synthetic data that can be used for benchmarking predictive modelling workflows."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Synthetic (aka ModelBuilder) is a virtual cell generation library for generating biological synthetic data that can be used for benchmarking predictive modelling workflows. The synthetic data are generated using ODE models formulated in biochemical laws common in cancer cell signalling networks. Synthetic can create datasets in the format of scikit-learn's make_regression method.
+
+[View on GitHub](https://github.com/synthetic-models/synthetic)
