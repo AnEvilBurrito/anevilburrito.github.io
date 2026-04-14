@@ -1,6 +1,7 @@
 ---
 title: "CANISR"
-excerpt: "Architected a full-stack, production-ready platform using Postgres/FastAPI/Next.js to standardise and visualise drug response predictive modelling across multi-scale biological datasets."
+date: 2025-09-01
+excerpt: "CANISR is a full-stack, production-ready platform designed to standardise and visualise drug response predictive modelling across multi-scale biological datasets.."
 collection: portfolio
 ---
 

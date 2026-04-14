@@ -1,5 +1,6 @@
 ---
 title: "Synthetic"
+date: 2026-02-01
 excerpt: "Synthetic (aka ModelBuilder) is a virtual cell generation library for generating biological synthetic data that can be used for benchmarking predictive modelling workflows."
 collection: portfolio
 ---
