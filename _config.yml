@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-photo-resized.jpeg"
+  avatar           : "bio/profile-photo-resized.jpeg"
   name             : "Dawson Y Lan"
   pronouns         : # example: "she/her"  
   bio              : "Data, Predictive Modelling, ODEs and Bio-Med-Tech"
