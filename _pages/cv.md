@@ -11,37 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computational Systems Biology, Monash University, 2026 (expected)
-* B.S. (Hons) in Biomedical Science, Monash University, 2022
-* B.S. Biomedical Science and Science (Comp Sci Major), Monash University, 2021
+* **Ph.D in Computational Systems Biology**, Monash University, 2022 – 2026 (expected)
+* **Bachelor of Biomedical Science and Science (Computer Science Major)**, Monash University, 2017 – 2022
 
-Work experience
+Experience
 ======
-* Sep 2020 - June 2022: Laboratory Assistant
-  * Box Hill Hospital, Eastern Health 
-  * Duties includes: COVID-19 test processing, use of Evolution pathology software and electronic medical recordsCOVID
-  * Supervisor: Rebecca Amoore
+* **PhD Candidature**, Monash University, June 2022 – Current
+  * Developed ODE-based mathematical models and feature engineering pipelines for cancer drug response prediction
+  * Optimised machine learning algorithms and numerical integration on HPC (SLURM/S3) for large-scale training
 
-* Dec 2019: Internship (Anatomical Pathology)
-  * Box Hill Hospital, Eastern Health
-  * Duties included: understanding in the practice of quality control in a hospital setting
-  * Supervisor: Tania Marsden
-  
+* **Laboratory Assistant**, Box Hill Hospital, Eastern Health, Sep 2020 – June 2022
+  * Processed COVID-19 tests using Evolution pathology software and electronic medical records
+
+Projects
+======
+* **Synthetic** | Project Author, Dec 2025 – Current
+  * Python library for generating biological synthetic data using ODE models to benchmark ML workflows
+* **CANISR** | Project Lead, Sep 2025 – Current
+  * Full-stack platform (Postgres/FastAPI/Next.js) for standardising and visualising drug response modelling
+
 Skills
 ======
-* Predictive Modelling 
-  * Analysis and processing of high dimensional data
-  * Mathematical modelling using Ordinary Differential Equations
-  * Data visualisation and communication
-* Programming 
-  * Python, Typescript, R, MATLAB
-  * Git, Jupyter, RDBMS (MySQL and PostgreSQL) 
-  * Docker and Kubernetes
-* Laboratory skills 
-  * Microscopy
-  * Centrifugation
-  * Pipetting
-  * Data entry 
+* **Technical Stack**: Python (Proficient), TypeScript, SQL, Docker, Postgres, Next.js, FastAPI, Scikit-learn
+* **Specialties**: Mathematical modelling, machine learning, feature engineering, data visualisation
 
 
 Publications
