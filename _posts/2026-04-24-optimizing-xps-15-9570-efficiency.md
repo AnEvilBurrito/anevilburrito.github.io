@@ -104,6 +104,6 @@ This benchmark set-up is also pretty rudimentary, it probably isn't robust enoug
 So maybe there is more time for me to stare at Claude doing work or to do a few more google searches? But that's about it? 
 
 ## Final Thoughts
-But, with `auto-cpufreq`, the switch between '1.6GHz' to '2.2GHz' is pretty toggle-able, this can lead to some interest use cases (e.g. use stock setting for opening up applications, and then cruise at 1.6GHz later. 
+But, with `auto-cpufreq`, the switch between '1.6GHz' to '2.2GHz' is pretty toggle-able, this can lead to some interest use cases (e.g. use stock setting for opening up applications, and then cruise at 1.6GHz later). 
 
 Perhaps the findings here could be extrapolated to other legacy hardware running 8-th Gen H-series Intel chips, especially in the Linux community where used ThinkPad laptops such as the T480 usually have a 8-th Gen intel CPU inside. 
